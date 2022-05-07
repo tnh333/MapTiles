@@ -1,7 +1,7 @@
 # MapTiles
 
 > ### Repository Information
-> In this lab on maptiles I created 4 maptile layers for seattle. Before I go into details on those specifically I am going to discuss the the repository. Each of the tile sets have a zoom level between 12 and 14 with the default being 12 when it is loaded up. All of the maptiles are in the assets folder and each one of the 4 folders corresponds with each one of the different map layers. In the data SeattleData folder there is a data set in which I created one of my map layers with. Lastly the img folder holds all of the images of the maps I created and one of them is the photo I used when using the cartogram feature in mapbox studio (Mariners logo). The link to html can be found here: [Maptiles over Seattle](https://tnh333.github.io/Maptiles.html)
+> In this lab on maptiles I created 4 maptile layers for seattle. Before I go into details on those specifically I am going to discuss the the repository. Each of the tile sets have a zoom level between 12 and 14 with the default being 12 when it is loaded up. All of the maptiles are in the assets folder and each one of the 4 folders corresponds with each one of the different map layers. In the data SeattleData folder there is a data set in which I created one of my map layers with. Lastly the img folder holds all of the images of the maps I created and one of them is the photo I used when using the cartogram feature in mapbox studio (Mariners logo). The link to html can be found here: [Maptiles over Seattle](https://tnh333.github.io/MapTiles/Maptiles.html)
 
 #### Maptile 1: Mapbox Basemap
 
